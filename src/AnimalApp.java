@@ -3,10 +3,6 @@ public class AnimalApp {
 
 	public static void main(String[] args) {
 
-		Animal a = new Animal();
-		print(a.eat());
-		print(a.sleep());
-
 		Cat c = new Cat();
 		print(c.eat());
 		print(c.sleep());
